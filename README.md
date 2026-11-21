@@ -1,5 +1,3 @@
-# customer-feedback-classification
-
 # Customer Feedback Text Classification
 
 Hybrid ensemble of a fine-tuned BERT model and a classical scikit-learn pipeline for 3-class customer feedback classification. The blend of both models outperforms each of them on its own.
